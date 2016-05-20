@@ -1,47 +1,47 @@
 .container-fluid{
-  background-color: yellow;
+  background-color: #F8B195;
   padding: 15px;
   border: 3px solid black;
   }
 
   .header{
-    background-color: blue;
+    background-color: #F67280;
     padding: 30px;
     border: 3px solid black;
     height: 200px;
   }
 
 .nav{
-  background-color:green;
+  background-color:#C06C84;
   padding: 30px;
   border: 3px solid black;
   height: 100px;
 }
 
 .content{
-  background-color: red;
+  background-color: #DADAE8;
   padding: 30px;
   border: 3px solid black;
   height: 300px;
 }
 
 .aside {
-  background-color: aqua;
+  background-color:#CFC8D9;
   padding: 30px;
   border: 3px solid black;
   height: 300px;
 }
 
 .promo{
-  background-color:orange;
+  background-color:#BAA1BD;
   padding: 30px;
   border: 3px solid black;
   height: 300px;
 }
 
 footer{
-  background-color:black;
+  background-color:#7A6182;
   padding: 30px;
   height: 100px;
-  color: white;
+  color: #2E2A38;
 }
