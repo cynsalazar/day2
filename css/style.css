@@ -47,6 +47,12 @@ footer{
 }
 
 /*MEDIA QUERIES*/
+@media screen and (min-width:375px) {
+  .aside{
+    background-color: teal;
+  }
+}
+
 @media screen and (min-width : 768px) {
   .content{
     background-color: orange;
@@ -59,10 +65,4 @@ footer{
 .nav{
   background-color: #b3200b;
 }
-}
-
-@media screen and (min-width:375px) {
-  .aside{
-    background-color: teal;
-  }
 }
